@@ -172,7 +172,7 @@ Sets the range of barcode text length for barcodes search.
 
 | Struct |	Struct Member Name | Value Type | Value Range | Default Value |
 | ------ | ------------------- | ---------- | ------------ | ------------- |
-| [`PublicRuntimeSettings`]({{ site.manual_interface_struct }}PublicRuntimeSettings.html | [`minBarcodeTextLength`]({{ site.manual_interface_struct }}PublicRuntimeSettings.html#minbarcodetextlength)) | [0,0x7fffffff] | 0 |
+| [`PublicRuntimeSettings`]({{ site.manual_interface_struct }}PublicRuntimeSettings.html) | [`minBarcodeTextLength`]({{ site.manual_interface_struct }}PublicRuntimeSettings.html#minbarcodetextlength) | [0,0x7fffffff] | 0 |
 
 **Remark**   
 0: means no limitation on the barcode text length.
